@@ -1,0 +1,1 @@
+bom até agora, fui feito apenas a preparaação, usando "npm instal", e criando o app.js na pasta ./dist/js 
