@@ -1,1 +1,3 @@
 bom até agora, fui feito apenas a preparaação, usando "npm instal", e criando o app.js na pasta ./dist/js 
+
+instal type script"npm install typescript@4.2.2 --save-dev"
